@@ -1,0 +1,121 @@
+1.  ASSET MANAGEMENT
+Build an asset register sample template
+
+Prompt:
+Generate an asset inventory template for an ICS network in a [industry] facility, including fields like asset type, IP, MAC address, firmware version, and vendor.
+
+2.  VULNERABILITY MANAGEMENT
+Create a OT vulnerability management plan
+
+Prompt:
+Design a practical patch and vulnerability management workflow for a [industry] plant that includes OT risk-based prioritization and the Now, Next, Never approach.
+
+3.  SECURE NETWORK ARCHITECTURE
+Design a secure OT network architecture from the start
+
+Prompt:
+Draw a high-level secure network architecture diagram for an [industry] facility, including IT, DMZ, and OT zones with firewalls, unidirectional gateways and data diodes.
+
+4.  BACKUP & RECOVERY
+Build a backup and recovery plan for your OT network
+
+Prompt:
+Write a backup and recovery strategy for PLCs and HMIs in a large [industry] plant, including storage types, validation processes and testing procedures.
+
+
+5.  INCIDENT RESPONSE PLANNING
+Create an incident response plan from scratch
+
+Prompt:
+Write a complete OT/ICS-specific incident response plan for a mid-sized [industry] plant, including roles, escalation paths, and communication protocols.
+
+6. SECURITY AWARENESS TRAINING
+Design a cybersecurity awareness session
+
+Prompt:
+Develop a 1-hour awareness training outline for control engineers on how to avoid common OT cybersecurity mistakes. Include real world examples from [industry].
+
+7.  COMPLIANCE & GOVERNANCE
+Learn how to apply complex settings practically
+
+Prompt:
+Break down ISA/IEC 62443-3-3 requirements in plain language and provide an example implementation for a [industry] control room; use only information in the public domain
+
+8.  TABLETOP EXERCISES
+Get help designing a realistic tabletop exercise 
+
+Prompt:
+Generate a tabletop exercise for an OT cybersecurity incident in a [industry] plant based on a realistic example which has occurred at another facility in the same industry.
+
+9. RISK ASSESSMENT
+Identifying potential risks in an ICS/OT environment
+
+Prompt:
+Act as an OT cybersecurity consultant. Create a list of the top 10 cybersecurity risks for a [industry] plant using SCADA systems, including likelihood and impact.
+
+10. THREAT INTEL
+Understanding threats against your OT network
+
+Prompt:
+Summarize the TTPs (Tactics, Techniques, and Procedures) used by attackers in past ICS/OT-related attacks, and map them to the MITRE ATT&CK for ICS matrix for [industry].
+
+11. NETWORK SECURITY MONITORING
+Work to improve  network monitoring
+
+Prompt:
+List the top 10 log sources in an OT network that would help detect early signs of a cyber attack in [industry]. Provide a list of tips & tricks on implmentation and configuration.
+
+12. SECURE REMOTE ACCESS
+Learn how to secure remote access
+
+Prompt:
+What are the recommended security controls for enabling vendor remote access to a PLC in a [industry] facility? List challenges and fixes with SRA seen at other similiar facilities.
+
+13. THREAT HUNTING
+Create threat hunting rules for bad things
+
+Prompt:
+Write example detection rules for an OT network that alert on suspicious Modbus TCP function codes such as write coil or force listen-only mode. Provide example responses.
+
+14. HONEYPOTS FOR INCIDENT DETECTION
+Build an OT honeypot to detect attackers
+
+Prompt:
+Help me design a Modbus honeypot for an OT lab that logs all activity, maps IPs to geolocation, and mimics a real-world PLC interface.  Ensure it provides realistic data to attackers.
+
+15. PHYSICAL SECURITY
+Work to secure OT assets from physical access
+
+Prompt:
+List the top physical security controls that should be implemented to protect critical OT systems in a [industry] facility. Include real world examples that have occurred.
+
+16. AWARENESS FOR EXECUTIVES
+Get help communicating with leadership
+
+Prompt:
+Write a 5-slide executive briefing explaining why investing in ICS cybersecurity is critical to operational continuity and safety in [industry]. Provided additional suggestions.
+
+
+17. METRICS
+Design metrics for measuring cyber success
+
+Prompt:
+Generate a list of meaningful KPIs and metrics to measure the maturity of an ICS/OT cybersecurity program over time in the [industry] industry. Provide realistic examples of each.
+
+18. THREAT MODELING
+Create a threat model for your industry
+
+Prompt:
+Perform a threat model using various methodologies for a [industry] control system connected via wireless telemetry.  Make additional suggestions to assist.
+
+19.  CAREER DEVELOPMENT
+Get help with finding your OT/ICS cyber journey
+
+Prompt:
+Act as a mentor. What skills, certifications, and hands-on labs should someone focus on during their first year trying to break into ICS/OT cybersecurity?
+
+20. PENETRATION TESTING
+Learn how to perform security testing safely
+
+Prompt:
+What are the top OT-specific tools and techniques to enumerate PLCs, HMIs, and RTUs safely within an ICS/OT network? Authorization must be received before any testing.
